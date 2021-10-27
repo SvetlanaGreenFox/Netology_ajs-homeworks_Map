@@ -1,0 +1,38 @@
+{
+  "name": "netology_ajs-homeworks_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaGreenFox/Netology_ajs-homeworks_Map.git"
+  },
+  "author": "Svetlana Lisina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaGreenFox/Netology_ajs-homeworks_Map/issues"
+  },
+  "homepage": "https://github.com/SvetlanaGreenFox/Netology_ajs-homeworks_Map#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.4.3",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "core-js": "^3.19.0"
+  },
+  "_id": "netology_ajs-homeworks_map@1.0.0"
+}
