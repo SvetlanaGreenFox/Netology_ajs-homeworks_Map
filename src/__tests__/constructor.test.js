@@ -9,5 +9,5 @@ test('Get Description Error', () => {
 test('Get Error', () => {
   const error2 = new ErrorRepository();
 
-  expect(error2.translate(4)).toBe('Unknown error'));
+  expect(error2.translate(4)).toBe('Unknown error');
 })
